@@ -137,9 +137,9 @@ fs.writeFile('results.txt', util.inspect(maglis), err => {
 })
 
 fs.appendFile('results.txt', util.inspect(bella), err => {
-    if(err) throw err
+    if (err) throw err
 })
 
 fs.appendFile('results.txt', util.inspect(ganges), err => {
-    if(err) throw err
+    if (err) throw err
 })
