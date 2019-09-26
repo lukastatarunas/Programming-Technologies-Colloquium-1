@@ -1,0 +1,9 @@
+Animal {
+  name: 'Bella',
+  breed: 'French Bulldog',
+  weight: ' 7.985',
+  birthYears: ' 2015' }Animal {
+  name: 'Ganges',
+  breed: 'German shepherd',
+  weight: ' 24.426',
+  birthYears: ' 2009' }

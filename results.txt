@@ -1,0 +1,13 @@
+Animal {
+  name: 'Maglis',
+  breed: 'French Bulldog',
+  weight: ' 8.250',
+  birthYears: ' 2012' }Animal {
+  name: 'Ganges',
+  breed: 'German shepherd',
+  weight: ' 24.426',
+  birthYears: ' 2009' }Animal {
+  name: 'Bella',
+  breed: 'French Bulldog',
+  weight: ' 7.985',
+  birthYears: ' 2015' }
